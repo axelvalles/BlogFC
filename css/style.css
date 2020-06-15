@@ -3,8 +3,12 @@
     background-size: cover;
 }
 
-.navbar {
+.transparent {
     background-color: transparent;
+}
+
+.navpages{
+    background-color: rgba(62, 69, 81, 0.95)  ;
 }
 
 .top-nav-collapse {
@@ -19,7 +23,11 @@
 
 html,
 body,
-header,
+.header,
 .view {
 height: 100%;
+}
+
+.header2{
+    height: 7%;
 }
